@@ -1,2 +1,2 @@
 # ML-projects
-All machine learning projects created by me.
+All basic to advance machine learning projects created by me.
